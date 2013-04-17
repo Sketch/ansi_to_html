@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>foo</title>
+		<title>ANSI to HTML Example</title>
 		<link rel="stylesheet" href="ansi_singletag.css" />
 		<style type="text/css">
 			body {background-color: black;}
