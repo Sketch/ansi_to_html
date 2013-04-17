@@ -1,6 +1,7 @@
 <?php
     /* ANSI to HTML
      * Author: Sketch@M*U*S*H (Ryan Dowell)
+	  * With help from Mike@M*U*S*H (Mike Griffiths)
      *
      * The purpose of the function ansi_to_html is to transform strings from
      * a PennMUSH game that encode color data as ANSI/XTerm codes into a string
