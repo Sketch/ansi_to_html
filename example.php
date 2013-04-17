@@ -4,6 +4,7 @@
 		<link rel="stylesheet" href="ansi_singletag.css" />
 		<style type="text/css">
 			body {background-color: black;}
+			.mush {color: white;}
 		</style>
 	</head>
 	<body>
