@@ -6,3 +6,4 @@ The code only alters escape codes that match the regexp \e\\[[0-9;]+m, transform
 More technical details are provided in the code.
 
 Written by Sketch@M\*U\*S\*H (Ryan Dowell) with help from Mike@M\*U\*S\*H (Mike Griffiths).
+Original Source: https://github.com/Sketch/ansi\_to\_html

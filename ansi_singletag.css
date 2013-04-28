@@ -1,4 +1,5 @@
 /* A version of ansi.css from Banana-MUClient intended for use with non-nested HTML tags */
+/* Original source: https://github.com/Sketch/ansi_to_html */
 .mush {
   /* white-space: pre; */
   font-family: Fixed, monospace;

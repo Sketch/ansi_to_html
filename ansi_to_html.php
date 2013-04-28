@@ -2,6 +2,7 @@
     /* ANSI to HTML
      * Author: Sketch@M*U*S*H (Ryan Dowell)
 	  * With help from Mike@M*U*S*H (Mike Griffiths)
+	  * Original source: https://github.com/Sketch/ansi_to_html
      *
      * The purpose of the function ansi_to_html is to transform strings from
      * a PennMUSH game that encode color data as ANSI/XTerm codes into a string
