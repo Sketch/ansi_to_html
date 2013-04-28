@@ -129,7 +129,6 @@
       public function state_classes() {
         $spanclasses = array('mush');
 
-        // Nothing handles flash yet.
         if ($this->ansi_invert) {
           array_push($spanclasses, 'invert');
         }
@@ -138,6 +137,9 @@
         }
         if ($this->ansi_underscore) {
           array_push($spanclasses, 'underscore');
+        }
+        if ($this->ansi_flash) {
+          array_push($spanclasses, 'flash');
         }
         if ($this->ansi_fg != 'default') {
           array_push($spanclasses, 'fg_' . $this->ansi_fg);
